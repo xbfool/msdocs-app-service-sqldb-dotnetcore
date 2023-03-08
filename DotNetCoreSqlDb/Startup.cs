@@ -14,7 +14,7 @@ using Microsoft.EntityFrameworkCore;
 using DotNetCoreSqlDb.Models;
 
 namespace DotNetCoreSqlDb
-{
+{ 
     public class Startup
     {
         public Startup(IConfiguration configuration)
